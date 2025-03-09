@@ -1,0 +1,13 @@
+# Global LLM configuration
+[llm]
+model = "deepseek/deepseek-v3-turbo"
+base_url = "https://api.ppinfra.com/v3/openai"
+api_key = "sk_ULCMs2gwgK_aUAz3nv3vaA6SLgwFRe35dRBql7SFMBs"
+max_tokens = 4096
+temperature = 0.0
+
+# Optional configuration for specific LLM models
+[llm.vision]
+model = "deepseek/deepseek-v3-turbo"
+base_url = "https://api.ppinfra.com/v3/openai"
+api_key = "sk_ULCMs2gwgK_aUAz3nv3vaA6SLgwFRe35dRBql7SFMBs"
