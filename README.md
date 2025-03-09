@@ -17,9 +17,11 @@ OMBD是OpenManus的一个分支项目，旨在通过使用baidusearch来替换�
 - Win11专业版
 
   ## 部署方式
-  >conda create -n open_manus python=3.12
-  >conda activate open_manus
-  >git clone https://github.com/counsd/OMBD.git
-  >pip install -r requirements.txt
-  >cd OMBD
-  >python main.py
+  ```bash
+  conda create -n open_manus python=3.12
+  conda activate open_manus
+  git clone https://github.com/counsd/OMBD.git
+  pip install -r requirements.txt
+  cd OMBD
+  python main.py
+  ```
