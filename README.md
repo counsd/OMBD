@@ -25,3 +25,7 @@ OMBD是OpenManus的一个分支项目，旨在通过使用baidusearch来替换�
   cd OMBD
   python main.py
   ```
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=counsd/OMBD&type=Date)](https://star-history.com/#counsd/OMBD&Date)
